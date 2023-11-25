@@ -133,7 +133,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: can-caliskan
+          github_user_name: mishmanners
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -246,7 +246,7 @@ Like
 Reply
  
  
-can-caliskan profile image
+mishmanners profile image
 Michelle Mannering 
 •
 3 Eyl 21
@@ -272,7 +272,7 @@ Thank you! actually I was using the .gif version, so I switched to the .svg one 
 Like
 Thread
  
-can-caliskan profile image
+mishmanners profile image
 Michelle Mannering 
 •
 3 Eyl 21
@@ -407,7 +407,7 @@ Like
 Reply
  
  
-can-caliskan profile image
+mishmanners profile image
 Michelle Mannering 
 •
 6 Eyl 21 • Edited on 6 Eyl
@@ -441,7 +441,7 @@ Like
 Reply
  
  
-can-caliskan profile image
+mishmanners profile image
 Michelle Mannering 
 •
 4 Oca 22
