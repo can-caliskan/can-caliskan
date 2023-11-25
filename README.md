@@ -1,6 +1,6 @@
-# Hakkımda
+# Merhaba!
 
-Merhaba! Benim adım Can Çalışkan, internet ortamında adım ise Mark. GitHub sayfama hoş geldiniz. 5 yıldır kodlarla uğraşıyorum ve web geliştirme alanında yeteneklerim bulunuyor. Aşağıda sizinle deneyimlerim ve projelerim hakkında daha fazla bilgi paylaşmak istiyorum.
+Benim adım Can Çalışkan, internet ortamında adım ise Mark. GitHub sayfama hoş geldiniz. 5 yıldır kodlarla uğraşıyorum ve web geliştirme alanında yeteneklerim bulunuyor. Aşağıda sizinle deneyimlerim ve projelerim hakkında daha fazla bilgi paylaşmak istiyorum.
 
 ## Hakkımda
 
