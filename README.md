@@ -32,6 +32,6 @@ Aşağıda bazı projelerimi paylaşmak istiyorum:
 Projelerim veya işbirliği teklifleri hakkında daha fazla bilgi almak, geri bildirimlerde bulunmak veya sadece bir merhaba demek için aşağıdaki iletişim bilgilerinden bana ulaşabilirsiniz:
 
 - E-posta: [caliskann379@gmail.com]
-- Instagram: [Instagram Profilim](https://www.instagram.com/pikselperisi/)
+- Instagram: [Instagram Profilim](https://www.instagram.com/feon.app/)
 
 GitHub sayfamı ziyaret ettiğiniz için teşekkür ederim. İyi günler dilerim!
