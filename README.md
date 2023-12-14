@@ -1,10 +1,10 @@
 # Merhaba!
 
-Benim adım Can Çalışkan, internet ortamında adım ise Mark. GitHub sayfama hoş geldiniz. 5 yıldır kodlarla uğraşıyorum ve web geliştirme alanında yeteneklerim bulunuyor. Aşağıda sizinle deneyimlerim ve projelerim hakkında daha fazla bilgi paylaşmak istiyorum.
+Ben Can Çalışkan, internet ortamında ise Mark olarak biliniyorum. GitHub sayfama hoş geldiniz. Aşağıda deneyimlerim ve projelerim hakkında daha fazla bilgi paylaşmak istiyorum.
 
 ## Hakkımda
 
-Web geliştirme alanında uzmanlaşmış bir yazılım geliştiriciyim ve sürekli olarak kendimi geliştirmek ve yeni teknolojileri öğrenmek için çaba gösteriyorum. Proje geliştirme sürecini severek takip ediyor ve yaratıcı fikirlerimi hayata geçirmek için çaba sarf ediyorum.
+5 yıldır Front-End geliştirme alanında çalışıyorum ve bu süre zarfında çeşitli projeler geliştirerek sağlam bir web geliştirme deneyimi elde ettim. Ayrıca bir reklam ajansında staj yaparak Görsel Tasarım, Baskı Dosyası Hazırlama, Mockup Oluşturma, Web Site Tasarımı ve Mobil Uygulama Tasarımı gibi konularda deneyim kazandım. Yaratıcı fikirlerimi hayata geçirirken özenli ve titiz çalışmayı prensip edindim. Her gün yeni teknolojileri ve uygulamaları öğrenerek kendimi sürekli geliştirmek için çaba harcıyorum.
 
 ## Yeteneklerim
 
@@ -17,21 +17,21 @@ Web geliştirme alanında uzmanlaşmış bir yazılım geliştiriciyim ve sürek
 
 Aşağıda bazı projelerimi paylaşmak istiyorum:
 
-1. [Dizi Sitesi](https://noxarea.com): Bu proje, HTML, CSS, JavaScript, React ve Node.js kullanarak geliştirilmiş bir dizi izleme sitesidir. Kullanıcılar, farklı dizileri keşfedebilir, bölümleri izleyebilir ve kendi yorumlarını ekleyebilirler.
+1. [Dizi Sitesi](https://noxarea.com): HTML, CSS, JavaScript, React ve Node.js kullanılarak geliştirilmiş bir dizi izleme sitesi. Kullanıcılar, farklı dizileri keşfedebilir, bölümleri izleyebilir ve kendi yorumlarını ekleyebilirler.
 
-2. [Blog Sitesi](https://noxarea.com): Bu proje, HTML, CSS, JavaScript, React ve Node.js kullanılarak geliştirilmiş bir blog sitesidir. Kullanıcılar, makaleleri okuyabilir, yorum yapabilir ve site adminleri blog yazılarını yayınlayabilir, kullanıcılar yorum yapabilir ve etkileşimde bulunabilirler.
+2. [Blog Sitesi](https://noxarea.com): HTML, CSS, JavaScript, React ve Node.js kullanılarak geliştirilmiş bir blog sitesi. Kullanıcılar, makaleleri okuyabilir, yorum yapabilir ve site adminleri blog yazılarını yayınlayabilir, kullanıcılar yorum yapabilir ve etkileşimde bulunabilirler.
 
-3. [Sohbet Etme Sitesi](https://noxarea.com): Bu proje, gerçek zamanlı sohbet imkanı sunan bir web uygulamasıdır. HTML, CSS, JavaScript, React ve Node.js ile geliştirilmiştir ve kullanıcılar grup sohbetleri oluşturabilir.
+3. [Sohbet Etme Sitesi](https://noxarea.com): Gerçek zamanlı sohbet imkanı sunan bir web uygulaması. HTML, CSS, JavaScript, React ve Node.js ile geliştirildi ve kullanıcılar grup sohbetleri oluşturabilir.
 
-4. [NoxArea](https://noxarea.com): NoxArea, topluluk platformudur. Kullanıcılar metin tabanlı içerikler (makaleler, rehberler, haberler), görseller (ekran görüntüleri, oyun sanatları) ve diğer medya türlerini (gif'ler, meme'ler) paylaşabilirler, tartışmalara katılabilir ve etkileşimde bulunabilir.
+4. [NoxArea](https://noxarea.com): Topluluk platformu. Kullanıcılar metin tabanlı içerikler (makaleler, rehberler, haberler), görseller (ekran görüntüleri, oyun sanatları) ve diğer medya türlerini (gif'ler, meme'ler) paylaşabilir, tartışmalara katılabilir ve etkileşimde bulunabilir.
 
-5. [Dijital Kart App](https://noxarea.com): Şu anda üzerinde çalıştığım bir proje. Bu uygulama, dijital karta linklerini ekleyip yönetmeyi sağlar ve kullanıcılara kişisel kartlarını oluşturma ve kendi profilini paylaşma imkanı sunar.
+5. [Dijital Kart App](https://noxarea.com): Üzerinde çalıştığım bir proje. Bu uygulama, dijital karta linklerini ekleyip yönetmeyi sağlar ve kullanıcılara kişisel kartlarını oluşturma ve kendi profilini paylaşma imkanı sunar.
 
 ## İletişim
 
-Projelerim veya işbirliği teklifleri hakkında daha fazla bilgi almak, geri bildirimlerde bulunmak veya sadece bir merhaba demek için aşağıdaki iletişim bilgilerinden bana ulaşabilirsiniz:
+Projelerim veya işbirliği teklifleri hakkında daha fazla bilgi almak, geri bildirimde bulunmak veya sadece bir merhaba demek için aşağıdaki iletişim bilgilerinden bana ulaşabilirsiniz:
 
-- E-posta: [caliskann379@gmail.com]
+- E-posta: [caliskann379@gmail.com](mailto:caliskann379@gmail.com)
 - Instagram: [Instagram Profilim](https://www.instagram.com/feon.app/)
 
 GitHub sayfamı ziyaret ettiğiniz için teşekkür ederim. İyi günler dilerim!
