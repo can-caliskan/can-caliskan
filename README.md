@@ -1,6 +1,6 @@
 # Merhaba!
 
-Ben Can Çalışkan, internet ortamında ise Mark olarak biliniyorum. GitHub sayfama hoş geldiniz. Aşağıda deneyimlerim ve projelerim hakkında daha fazla bilgi paylaşmak istiyorum.
+Ben Can, internet ortamında ise Mark olarak biliniyorum. GitHub sayfama hoş geldiniz. Aşağıda deneyimlerim ve projelerim hakkında daha fazla bilgi paylaşmak istiyorum.
 
 ## Hakkımda
 
@@ -17,15 +17,15 @@ Ben Can Çalışkan, internet ortamında ise Mark olarak biliniyorum. GitHub say
 
 Aşağıda bazı projelerimi paylaşmak istiyorum:
 
-1. [Dizi Sitesi](https://noxarea.com): HTML, CSS, JavaScript, React ve Node.js kullanılarak geliştirilmiş bir dizi izleme sitesi. Kullanıcılar, farklı dizileri keşfedebilir, bölümleri izleyebilir ve kendi yorumlarını ekleyebilirler.
+1. [Dizi Sitesi](#): HTML, CSS, JavaScript, React ve Node.js kullanılarak geliştirilmiş bir dizi izleme sitesi. Kullanıcılar, farklı dizileri keşfedebilir, bölümleri izleyebilir ve kendi yorumlarını ekleyebilirler.
 
-2. [Blog Sitesi](https://noxarea.com): HTML, CSS, JavaScript, React ve Node.js kullanılarak geliştirilmiş bir blog sitesi. Kullanıcılar, makaleleri okuyabilir, yorum yapabilir ve site adminleri blog yazılarını yayınlayabilir, kullanıcılar yorum yapabilir ve etkileşimde bulunabilirler.
+2. [Blog Sitesi](#): HTML, CSS, JavaScript, React ve Node.js kullanılarak geliştirilmiş bir blog sitesi. Kullanıcılar, makaleleri okuyabilir, yorum yapabilir ve site adminleri blog yazılarını yayınlayabilir, kullanıcılar yorum yapabilir ve etkileşimde bulunabilirler.
 
-3. [Sohbet Etme Sitesi](https://noxarea.com): Gerçek zamanlı sohbet imkanı sunan bir web uygulaması. HTML, CSS, JavaScript, React ve Node.js ile geliştirildi ve kullanıcılar grup sohbetleri oluşturabilir.
+3. [Sohbet Etme Sitesi](#): Gerçek zamanlı sohbet imkanı sunan bir web uygulaması. HTML, CSS, JavaScript, React ve Node.js ile geliştirildi ve kullanıcılar grup sohbetleri oluşturabilir.
 
-4. [NoxArea](https://noxarea.com): Topluluk platformu. Kullanıcılar metin tabanlı içerikler (makaleler, rehberler, haberler), görseller (ekran görüntüleri, oyun sanatları) ve diğer medya türlerini (gif'ler, meme'ler) paylaşabilir, tartışmalara katılabilir ve etkileşimde bulunabilir.
+4. [NoxArea](#): Topluluk platformu. Kullanıcılar metin tabanlı içerikler (makaleler, rehberler, haberler), görseller (ekran görüntüleri, oyun sanatları) ve diğer medya türlerini (gif'ler, meme'ler) paylaşabilir, tartışmalara katılabilir ve etkileşimde bulunabilir.
 
-5. [Dijital Kart App](https://noxarea.com): Üzerinde çalıştığım bir proje. Bu uygulama, dijital karta linklerini ekleyip yönetmeyi sağlar ve kullanıcılara kişisel kartlarını oluşturma ve kendi profilini paylaşma imkanı sunar.
+5. [Dijital Kart App](#): Üzerinde çalıştığım bir proje. Bu uygulama, dijital karta linklerini ekleyip yönetmeyi sağlar ve kullanıcılara kişisel kartlarını oluşturma ve kendi profilini paylaşma imkanı sunar.
 
 ## İletişim
 
