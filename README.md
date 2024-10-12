@@ -27,6 +27,8 @@ Aşağıda bazı projelerimi paylaşmak istiyorum:
 
 5. [Dijital Kart App](#): Üzerinde çalıştığım bir proje. Bu uygulama, dijital karta linklerini ekleyip yönetmeyi sağlar ve kullanıcılara kişisel kartlarını oluşturma ve kendi profilini paylaşma imkanı sunar.
 
+6. [Uptime Sitesi](#): Sunucu ve hizmetlerin uptime sürelerini izleyen bir web uygulaması. Kullanıcılar, belirli bir URL'nin erişilebilirliğini kontrol edebilir ve sunucu durumunu görebilirler.
+
 ## İletişim
 
 Projelerim veya işbirliği teklifleri hakkında daha fazla bilgi almak, geri bildirimde bulunmak veya sadece bir merhaba demek için aşağıdaki iletişim bilgilerinden bana ulaşabilirsiniz:
